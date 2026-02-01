@@ -1,6 +1,6 @@
 ﻿# 🚀 Assistant Portfolio IA — Julien Forestier
  
-> **🌐 Lien de l'application en ligne :** [Cliquez ici pour tester l'assistant](TON_LIEN_STREAMLIT_ICI)
+> **🌐 Lien de l'application en ligne :** [Cliquez ici pour tester l'assistant](https://llmjulienforestier.streamlit.app))
 > 
 Ce projet est un assistant intelligent basé sur une architecture **RAG** (*Retrieval Augmented Generation*). Il permet d'interroger mon parcours et mes compétences de manière naturelle, en garantissant que les réponses sont fondées sur des documents réels.
 
